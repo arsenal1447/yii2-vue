@@ -1,0 +1,21 @@
+{
+  "name": "zxx",
+  "description": "y",
+  "main": "",
+  "authors": [
+    "y"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/yidashi/vue-yii2cmf",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
